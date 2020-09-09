@@ -25,7 +25,6 @@ public class SportStatistics {
         int games = 0, wins = 0, losses = 0;
         for(int i = 0; i < list.size(); i++){
             String[] parts = list.get(i).split(",");
-            // Part 1
             if(parts[0].equals(teamName)){
                 games++;
                 if(Integer.valueOf(parts[2]) > Integer.valueOf(parts[3])){
