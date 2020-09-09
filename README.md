@@ -1,5 +1,5 @@
 # SportStatistics_Exercise
- - Mooc.fi
+ - MOOC.fi
  
 In this exercise, we'll be working with files stored in CSV format. Each line of the file contains the home team, visiting team, home team points, and visiting team points, all separated by commas.
 
