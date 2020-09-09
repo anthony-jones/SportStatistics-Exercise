@@ -1,6 +1,5 @@
 # SportStatistics_Exercise
- - MOOC.fi
- 
+
 In this exercise, we'll be working with files stored in CSV format. Each line of the file contains the home team, visiting team, home team points, and visiting team points, all separated by commas.
 
 You can see an example below of the file's contents. The file shown below is also included in the exercise template with the name "data.csv".
@@ -21,3 +20,5 @@ Implement the ability to output the number of games played by any given team. We
 
 Part 2: Wins and Losses
 Extend the program so that it has the ability to print the number of wins and losses of a given team. The winner of a game is the team that has gained more points from it. You may assume that the games cannot be tied. Below, we're using the above-mentioned data.csv file.
+
+ - From MOOC.fi
